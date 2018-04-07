@@ -1,0 +1,13 @@
+1. If we multipliy all the prime numbers less than a certin number and add 1 to it, then it will give a prime number.(euclidian's proof by contradiction)
+	2*3*5 + 1 = 31
+	this helps us to prove that there are infinitely many prime numbers and there no such thing called as the biggest prime
+
+2. Apart from 2 and 3 all the prime numbers in this world gives either 1 or 5 as reminders when divided by 6(this doesn't say everything as prime but if it violated it then it is not a prime)
+
+3. All numbers in this world can be prime factorized by a unique set of prime numbers
+	eg: for 12 : (2,3)
+
+4. Number of prime numbers upto a certin number x is approximately equal to x/ln(x) ; natural  logarithm to the base of e
+
+5. Twin prime conjecture (conjecture : a thing without proof)
+	There are infinitely many primes such that p and p+2 are primes
